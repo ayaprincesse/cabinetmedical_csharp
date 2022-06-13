@@ -1,0 +1,15 @@
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\bin\Debug\APPMEDECIN.exe.config
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\bin\Debug\APPMEDECIN.exe
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\bin\Debug\APPMEDECIN.pdb
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.csprojAssemblyReference.cache
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.consulte.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.Form1.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.medecin.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.patient.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.Properties.Resources.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.csproj.GenerateResource.cache
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.csproj.CoreCompileInputs.cache
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.exe
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.pdb
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.RecherchePatient.resources
+E:\2TDI\SABOUR\Client serveur\APPMEDECIN\APPMEDECIN\obj\Debug\APPMEDECIN.RechercheMedecin.resources
